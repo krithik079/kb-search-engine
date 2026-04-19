@@ -43,7 +43,7 @@ kb-search-engine/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kb-search-engine.git
+git clone https://github.com/krithik079/kb-search-engine.git
 cd kb-search-engine
 
 #Create virtual environment
